@@ -43,8 +43,8 @@
 			<div class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
 					<li class="active"><a href="#home">Home</a></li>
-					<li><a href="#about">Champions</a></li>
-					<li><a href="#download">Patch Notes</a></li>
+					<li><a href="statistics/champions">Statistics</a></li>
+					<li><a href="http://na.leagueoflegends.com/en/news/game-updates/patch/patch-622-notes" target="_blank">Patch Notes</a></li>
 				</ul>
 				<form class="navbar-form navbar-right">
 					<div class="form-group">
