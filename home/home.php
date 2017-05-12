@@ -6,10 +6,12 @@ $summoner=$_GET['summoner'];
 
 $summoner=str_replace(" ", "", $summoner);
 
-$contents=@file_get_contents("https://na.api.pvp.net/api/lol/na/v1.4/summoner/by-name/" .$summoner."?api_key=" .apiKey);
+$contents=@file_get_contents("https://na1.api.riotgames.com/lol/summoner/v3/summoners/by-name/" .$summoner."?api_key=" .apiKey);
 
-//$decodedContents=json_decode($contents);
+$decodedContents=json_decode($contents);
 
 print_r($contents);
+
+//echo $decodedContents->profileIconId;
 
 ?>
