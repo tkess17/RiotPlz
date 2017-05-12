@@ -11,7 +11,7 @@
 <!doctype html>
 <html>
 <head>
-	<title>Lol Search</title>
+	<title>Riot Plz</title>
 
 	<meta charset="utf-8" />
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
@@ -37,7 +37,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand">LoL Search</a>
+				<a class="navbar-brand">Riot Plz</a>
 			</div>
 			
 			<div class="collapse navbar-collapse">
